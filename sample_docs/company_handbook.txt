@@ -1,0 +1,15 @@
+Acme Technologies Employee Handbook
+
+Working hours. Standard working hours are 9:30 AM to 6:30 PM, Monday to Friday. Employees may work from home up to two days per week with manager approval. Core collaboration hours are 11:00 AM to 4:00 PM, during which everyone should be available for meetings.
+
+Leave policy. Every employee receives 18 days of paid annual leave per calendar year, plus 8 days of paid sick leave. Unused annual leave up to 10 days can be carried forward to the next year. Leave requests must be submitted through the HR portal at least five working days in advance, except for sick leave.
+
+Probation and training. New graduates join a 6-month training programme followed by assessments. During training, each trainee is assigned a mentor who is a senior engineer. Trainees work on hands-on projects and are evaluated on programming, communication and delivery practices before being deployed to customer projects.
+
+Expense reimbursement. Travel for customer engagements is reimbursed on submission of receipts within 30 days. Economy class air travel and 3-star accommodation are covered. Daily meal allowance is 800 rupees when travelling outside the home city.
+
+Information security. All laptops must use full-disk encryption. Customer data must never be copied to personal devices or uploaded to public AI tools. Passwords must be at least 12 characters, and multi-factor authentication is mandatory for all company systems. Suspected security incidents must be reported to the security team within one hour.
+
+Equipment. Employees receive a laptop and a headset. Damaged equipment should be reported to IT support through the helpdesk portal. Replacement requests are processed within five working days.
+
+Performance reviews. Performance is reviewed twice a year, in April and October. Reviews cover technical skill, ownership, teamwork and customer feedback. Promotions are decided after the October review cycle.
